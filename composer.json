@@ -1,0 +1,20 @@
+{
+    "name": "belekas/belekas",
+    "description": "how to use library example",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "belekas",
+            "email": "belenkoks@gmail.com"
+        }
+    ],
+    "repositories":[{
+        "type": "vcs",
+        "url": "https://github.com/oMantas/library.git"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "bent-koks-vardas/folderis": "1.0"
+    }
+}
